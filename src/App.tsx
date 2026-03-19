@@ -5,7 +5,7 @@ const App: React.FC = () => {
     <main className="app">
       <section className="hero">
         <h1>Aditya</h1>
-        <p>Gather ye rosebuds while ye may</p>
+        <p>gather ye rosebuds while ye may</p>
       </section>
     </main>
   );
